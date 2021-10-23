@@ -1,0 +1,8 @@
+License.txt
+README.txt
+setup.py
+mooazam/__init__.py
+mooazam.egg-info/PKG-INFO
+mooazam.egg-info/SOURCES.txt
+mooazam.egg-info/dependency_links.txt
+mooazam.egg-info/top_level.txt
