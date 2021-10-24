@@ -1,3 +1,8 @@
 # This is my first library named mooazam
 
-You can use .name to print my name and .email to print my email id
+Install it using pip install mooazam
+https://pypi.org/project/mooazam/#description
+
+You can use 
+.name to print my name 
+.email to print my email id
